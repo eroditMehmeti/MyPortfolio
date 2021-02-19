@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Erodit\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Erodit\\.nuget\\packages"
+    ]
+  }
+}
